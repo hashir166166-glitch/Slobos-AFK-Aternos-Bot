@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "hehehehe_lololo",
+    "username": "progamer123",
     "password": "12341234",
     "type": "offline"
   },
   "server": {
     "ip": "blueberrymc.play.hosting",
     "port": 6995,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
