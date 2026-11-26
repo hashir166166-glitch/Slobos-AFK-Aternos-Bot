@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "blueberryorg.play.hosting",
-    "port": 19205,
+    "ip": "blueberrymc.play.hosting",
+    "port": 6995,
     "version": "",
     "try-creative": false
   },
